@@ -9,7 +9,7 @@
       "publishedYear": 1925,
       "inStock": true,
       "rating": 4.5,
-      "img-url":"assets/great-gatspy.png"
+      "img-url": "assets/images/great-gatspy.png"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "publishedYear": 1960,
       "inStock": true,
       "rating": 4.8,
-      "img-url":"assets/to-kill.png"
+      "img-url": "assets/images/to-kill.png"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "publishedYear": 1949,
       "inStock": false,
       "rating": 4.7,
-      "img-url":"assets/1984.png"
+      "img-url": "assets/images/1984.png"
     },
     {
       "id": 4,
@@ -42,7 +42,89 @@
       "publishedYear": 1951,
       "inStock": true,
       "rating": 4.3,
-      "img-url":"assets/catcher.png"
+      "img-url": "assets/images/catcher.png"
+    }
+  ],
+  "laptops": [
+    {
+      "id": 1,
+      "title": "Simple Laptop",
+      "description": "A basic vintage laptop with essential functions.",
+      "specs": [
+        "Color screen",
+        "Minimal keyboard",
+        "32MB RAM",
+        "6GB Hard Disk",
+        "Floppy Disk Drive"
+      ],
+      "price": 150,
+      "stock": 1,
+      "active": true,
+      "image": "assets/images/simple_laptop.png"
+    },
+    {
+      "id": 2,
+      "title": "Improved Retro Laptop",
+      "description": "A more functional retro laptop with basic upgrades.",
+      "specs": [
+        "Color screen with better brightness",
+        "Standard keyboard",
+        "64MB RAM (Not upgradable)",
+        "10GB Hard Disk",
+        "Floppy Disk Drive and CD-ROM"
+      ],
+      "price": 300,
+      "stock": 1,
+      "active": true,
+      "image": "assets/images/improved_retro_laptop.png"
+    },
+    {
+      "id": 3,
+      "title": "Refined Retro Laptop",
+      "description": "Refined model with more modern capabilities.",
+      "specs": [
+        "Vibrant color screen with VGA resolution",
+        "Full keyboard layout",
+        "128MB RAM (Expandable to 256MB)",
+        "20GB Hard Disk",
+        "CD-RW Drive and USB ports"
+      ],
+      "price": 500,
+      "stock": 1,
+      "active": true,
+      "image": "assets/images/refined_retro_laptop.png"
+    },
+    {
+      "id": 4,
+      "title": "Modernized Retro Laptop",
+      "description": "A retro-inspired laptop with sleek design and improved usability.",
+      "specs": [
+        "High-resolution color display",
+        "Spacious keyboard and responsive trackpad",
+        "256MB RAM (Upgradable to 512MB)",
+        "40GB Hard Disk",
+        "DVD-RW drive, multiple USB ports"
+      ],
+      "price": 800,
+      "stock": 1,
+      "active": true,
+      "image": "assets/images/modernized_retro_laptop.png"
+    },
+    {
+      "id": 5,
+      "title": "Ultimate Super Laptop",
+      "description": "The ultimate retro-inspired laptop with high-end features.",
+      "specs": [
+        "High-definition color screen",
+        "Full-sized, backlit keyboard",
+        "512MB RAM (Upgradable to 1GB)",
+        "80GB Hard Disk",
+        "Modern ports, DVD-RW, enhanced connectivity"
+      ],
+      "price": 1200,
+      "stock": 1,
+      "active": true,
+      "image": "assets/images/ultimate_super_laptop.png"
     }
   ]
 }
